@@ -4,7 +4,7 @@
 // @Component({
 //   selector: 'app-root',
 //   standalone: true,
-//   imports: [RouterOutlet], // 👈 IMPORTANT
+//   imports: [RouterOutlet], 
 //   templateUrl: './app.html'
 // })
 // export class App {}
